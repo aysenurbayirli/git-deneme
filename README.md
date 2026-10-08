@@ -7,6 +7,6 @@ bu benim ilk git değişikliğimdir.
 1.satır eklendi
 
 2.satır eklendi.
-
+github üzerinden yazılan satır
 
 
