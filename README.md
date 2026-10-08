@@ -13,5 +13,5 @@ yerelde yazilan satir
 
 github üzerinden yazılan satır
 
-
+Komutları deniyorum.
 
