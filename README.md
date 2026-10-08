@@ -8,5 +8,10 @@ bu benim ilk git değişikliğimdir.
 
 2.satır eklendi.
 
+
 yerelde yazilan satir
+
+github üzerinden yazılan satır
+
+
 
